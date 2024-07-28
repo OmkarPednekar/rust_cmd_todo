@@ -1,7 +1,3 @@
-Certainly! Here's a basic README file for your Rust project:
-
----
-
 # Command-Line To-Do App
 
 Welcome to the **Command-Line To-Do App** project! This repository is a part of my journey to learn Rust by building practical projects. The goal of this project is to create a simple, yet functional to-do list application that runs in the command line.
@@ -32,11 +28,6 @@ To get started with the project, follow these steps:
 ### Installation
 
 1. **Clone the Repository**:
-
-   ```bash
-   git clone https://github.com/yourusername/command-line-todo-app.git
-   cd command-line-todo-app
-   ```
 
 2. **Build the Project**:
 
